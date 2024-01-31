@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Cormorant:ital,wght@0,300..700;1,300..700&family=Dancing+Script:wght@400..700&display=swap');
+.heading{
+    font-family: "Cormorant", serif;
+    font-size: 50px;
+    color:rgb(20, 44, 110) ;
+    bottom: 60px;
+    text-align: center;
+}
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Cinzel:wght@400..900&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Cormorant:ital,wght@0,300..700;1,300..700&family=Dancing+Script:wght@400..700&display=swap');
+.info{
+    font-family: "Cinzel Decorative", serif;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(127, 64, 64);
+}
+.pos{
+    position: relative;
+    bottom: 60px;
+}

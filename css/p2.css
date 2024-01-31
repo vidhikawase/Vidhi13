@@ -1,0 +1,37 @@
+.p2c{
+    color: rgb(79, 12, 12);
+}
+.container{
+    margin: 30px 0px 0px 250px;
+    width: 1200px;
+}
+.main{
+    background-color: beige;
+    height: 500px;
+    width:300px;
+    display: inline-block;
+}
+.img2{
+    height: 200px;
+    width: 100%;
+}
+.img-2{
+    height: 200px;
+    width: 100%;
+}
+.img_2{
+    height: 200px;
+    width: 100%;
+}
+.img3{
+    height: 200px;
+    width: 100%;
+}
+.img4{
+    height: 200px;
+    width: 100%;
+}
+.img5{
+    height: 200px;
+    width: 100%;
+}
