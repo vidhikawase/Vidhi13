@@ -10,6 +10,9 @@
     height: 500px;
     width:300px;
     display: inline-block;
+    border-style: groove;
+    border-color: brown;
+    border-width: 10px;
 }
 .img2{
     height: 200px;
